@@ -1,0 +1,123 @@
+[19:37:11] Valores de configuração: 
+[19:37:11]  - NUM MINERS: 5
+[19:37:11]  - POOL SIZE: 50
+[19:37:11]  - TRANSACTIONS_PER_BLOCK: 10
+[19:37:11]  - BLOCKCHAIN_BLOCKS: 50000
+[19:37:11] Criada Memória Partilhada Transaction Pool!
+ - Transaction Pool id:  18
+[19:37:11] Criada Memória Partilhada Blockchain Ledger!
+ - Blockchain Ledger id:  19
+[19:37:11] Criada Memória Message Queue!
+ - Message Queue id:  1
+[19:37:11] A criar processo filho - Miner!
+[19:37:11] Miner PID: 2306
+[19:37:11] A criar processo filho - Validator!
+[19:37:11] A criar processo filho - Statistics!
+[19:37:11] Miner PID: 2306
+[19:37:11] Processo mineiro lançado corretamente!
+[19:37:11] A criar miner thread de id - 0
+[19:37:11] Processo validator lançado corretamente!
+[19:37:11] A criar miner thread de id - 1
+[19:37:11] A criar miner thread de id - 2
+[19:37:11] A criar miner thread de id - 3
+[19:37:11] A criar miner thread de id - 4
+[19:37:11] Thread 2 está ativa e pronta para minerar!
+[19:37:11] Thread 1 está ativa e pronta para minerar!
+[19:37:11] Thread 0 está ativa e pronta para minerar!
+[19:37:11] Thread 3 está ativa e pronta para minerar!
+[19:37:11] Thread 4 está ativa e pronta para minerar!
+[19:37:23] Thread 2 leu TX2335-0 da transaction pool!
+[19:37:23] Thread 2 a criar Bloco
+[19:37:23] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:23] Thread 1 leu TX2335-0 da transaction pool!
+[19:37:23] Thread 1 leu TX2335-1 da transaction pool!
+[19:37:23] Thread 1 a criar Bloco
+[19:37:23] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:24] Thread 0 leu TX2335-0 da transaction pool!
+[19:37:24] Thread 0 leu TX2335-1 da transaction pool!
+[19:37:24] Thread 0 leu TX2335-2 da transaction pool!
+[19:37:24] Thread 0 a criar Bloco
+[19:37:24] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:24] Thread 3 leu TX2335-0 da transaction pool!
+[19:37:24] Thread 3 leu TX2335-1 da transaction pool!
+[19:37:24] Thread 3 leu TX2335-2 da transaction pool!
+[19:37:24] Thread 3 leu TX2335-3 da transaction pool!
+[19:37:24] Thread 3 a criar Bloco
+[19:37:24] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:24] Thread 4 leu TX2335-0 da transaction pool!
+[19:37:24] Thread 4 leu TX2335-1 da transaction pool!
+[19:37:24] Thread 4 leu TX2335-2 da transaction pool!
+[19:37:24] Thread 4 leu TX2335-3 da transaction pool!
+[19:37:24] Thread 4 leu TX2335-4 da transaction pool!
+[19:37:24] Thread 4 a criar Bloco
+[19:37:24] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:31] A enviar bloco BLK4-4 para o validator
+[19:37:31] Transação BLK4-4 lida do pipe
+[19:37:31] Bloco BLK4-4 Inválido!
+[19:37:31] Thread 4 leu TX2335-0 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-1 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-2 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-3 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-4 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-5 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-6 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-7 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-8 da transaction pool!
+[19:37:31] Thread 4 leu TX2335-9 da transaction pool!
+[19:37:31] Thread 4 a criar Bloco
+[19:37:31] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:37] A enviar bloco BLK1-1 para o validator
+[19:37:37] Transação BLK1-1 lida do pipe
+[19:37:37] Bloco BLK1-1 Inválido!
+[19:37:37] Thread 1 leu TX2335-0 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-1 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-2 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-3 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-4 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-5 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-6 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-7 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-8 da transaction pool!
+[19:37:37] Thread 1 leu TX2335-9 da transaction pool!
+[19:37:37] Thread 1 a criar Bloco
+[19:37:37] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:47] A enviar bloco BLK3-3 para o validator
+[19:37:47] Transação BLK3-3 lida do pipe
+[19:37:47] Thread 3 leu TX2335-0 da transaction pool!
+[19:37:47] Bloco BLK3-3 Inválido!
+[19:37:47] Thread 3 leu TX2335-1 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-2 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-3 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-4 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-5 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-6 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-7 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-8 da transaction pool!
+[19:37:47] Thread 3 leu TX2335-9 da transaction pool!
+[19:37:47] Thread 3 a criar Bloco
+[19:37:47] Encontrada previus hash: 00006a8e76f31ba74e21a092cca1015a418c9d5f4375e7a4fec676e1d2ec1436
+[19:37:54] ########################  Estatisticas  ########################
+Miner 0 - Blocos Válidos: 0, Blocos Inválidos: 322732944
+Miner 0 - Créditos: 0
+
+Miner 1 - Blocos Válidos: 0, Blocos Inválidos: 322733967
+Miner 1 - Créditos: 0
+
+Miner 2 - Blocos Válidos: 0, Blocos Inválidos: 0
+Miner 2 - Créditos: 0
+
+Miner 3 - Blocos Válidos: 0, Blocos Inválidos: 0
+Miner 3 - Créditos: 0
+
+Miner 4 - Blocos Válidos: 0, Blocos Inválidos: 0
+Miner 4 - Créditos: 0
+
+Tempo Médio de Verificação das Transações: 0.000000 microsegundos
+Total de blocos validados: 645466911
+########################  Estatisticas  ########################
+
+
+[19:37:54] A mandar sinal para os filhos!
+[19:37:54] Fila de mensagens removida.
+
+[19:37:54] Statistics a encerrar!
